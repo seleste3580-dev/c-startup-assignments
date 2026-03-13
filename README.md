@@ -1,2 +1,2 @@
 # c-beginner-assignments
-#geometry calculations in c assembly
+# geometry calculations in c assembly
